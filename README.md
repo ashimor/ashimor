@@ -15,3 +15,4 @@ Additionally, I am passionate about giving back to the community through volunte
 Feel free to explore my repositories and reach out for collaboration or just to chat! Excited about the endless possibilities of code and innovation. 
 You can learn more about me and my Skills, Education, Work Experience, etc from my Linkedin Profile here https://www.linkedin.com/in/ashishmor/
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/ashimor?ext=heatmap)
