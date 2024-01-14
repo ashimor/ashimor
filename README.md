@@ -1,4 +1,5 @@
 Hello there! 🌈 Absolutely thrilled to make your acquaintance! 🚀🌟 
+
 I'm Ashish Mor, a passionate Data Enthusiast. I love this world full of data and my journey in this world has been nothing short of exciting. 
 I previously worked as Judicial Administrative Assistant at the District Court, specializing in data management, statistical analysis, and collaboration with law enforcement. 
 My professional journey also includes a fulfilling stint as a Guest Faculty at Engineering School, where I taught courses like Strength of Materials, Production Technology, and Engineering Mechanics. 
